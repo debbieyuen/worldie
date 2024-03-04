@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/worldie/static/css/main.4ceb6a1d.css",
+    "main.js": "/worldie/static/js/main.4d5790ea.js",
+    "static/js/453.ed3810f9.chunk.js": "/worldie/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/worldie/index.html",
+    "main.4ceb6a1d.css.map": "/worldie/static/css/main.4ceb6a1d.css.map",
+    "main.4d5790ea.js.map": "/worldie/static/js/main.4d5790ea.js.map",
+    "453.ed3810f9.chunk.js.map": "/worldie/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ceb6a1d.css",
+    "static/js/main.4d5790ea.js"
+  ]
+}
